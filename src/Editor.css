@@ -1,0 +1,21 @@
+.editor-container {
+    margin: 10px;
+}
+.editor-container h3 {
+    background-color: #DEB887;
+    letter-spacing: 5px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+/* textarea */
+#editor {
+    resize: vertical;
+    width: 100%;
+    height: 600px;
+    min-height: 400px;
+    font-size: 15px;
+    background-color: #ffc9ca;
+    padding: 10px;
+    border: 1px solid black;
+}

@@ -1,0 +1,25 @@
+
+.preview-container {
+  margin: 10px;
+  border-radius: 5px;
+}
+.preview-container h3 {
+  background-color: #DEB887;
+  letter-spacing: 5px;
+  text-align: center;
+  border: 1px solid black;
+
+}
+
+/* textarea */
+#preview {
+  border: 1px solid black;
+  background-color: #ffc9ca;
+  padding: 10px;
+}
+code {
+  background: white;
+  padding: 1px 4px 2px 4px;
+  font-size: 12px;
+  font-weight: bold;
+}
