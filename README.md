@@ -5,6 +5,10 @@ This project is part of [freeCodeCamp](https://www.freecodecamp.org/) Front End 
 ## View project
 https://milosrancic.github.io/reactjs-markdown-previewer
 
+### Screenshot
+
+[![Markdown-Previewer.png](https://i.postimg.cc/L41tD3DC/Markdown-Previewer.png)](https://postimg.cc/jCRndNGP)
+
 ### Technologies
 HTML5, CSS3, Bootstrap, JavaScript, ReactJS
 
